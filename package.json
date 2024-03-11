@@ -12,5 +12,8 @@
     "backend"
   ],
   "author": "sraddha",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "prettier": "^3.2.5"
+  }
 }
